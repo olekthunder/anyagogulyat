@@ -1,2 +1,7 @@
 creds.py
-
+my_tmp_gif.gif
+*.pyc
+*.session
+*.mypy_cache
+*.idea
+*.vscode
